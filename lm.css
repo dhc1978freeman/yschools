@@ -39,8 +39,8 @@ header nav {
 }
 
 main {
-    width: 1160px;
-    height: 1350px;
+    width: 1130px;
+    height: 1450px;
     padding-top: 100px;
     border: 4mm ridge rgba(0, 0, 0, 0.6);
     margin-left: 15%;
@@ -63,7 +63,7 @@ font-style: oblique;
 .coorentre {
     width: 300px;
     height: 170px;
-    margin-left: 880px;
+    margin-left: 800px;
     display: flex;
 }
 
@@ -98,6 +98,7 @@ font-style: oblique;
 .signa {
     width: 300px;
     height: 40px;
+    margin-top: 20%;
     margin-left: 800px;
     display: flex;
 }
